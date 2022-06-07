@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="etAddHint">Type in a new task here</string>
+    <string name="etDeleteHint">Type in the index of the task to be removed</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnDelete">Delete</string>
+    <string-array name="spinnerTasks">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+</resources>
